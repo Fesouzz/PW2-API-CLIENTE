@@ -30,7 +30,7 @@ app.use((req, res) => {
 })
 
 app.listen(PORT,() =>{
-  console.log(`servidor rondando a porta ${PORT}`)  
+  console.log(`servidor rodando a porta  ${PORT}`)  
 })
 
 module.exports = app;
